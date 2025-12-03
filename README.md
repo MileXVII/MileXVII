@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Michael Raneri**, Computer Science Master's student at University of Catania (LM31).
+I'm **Michael Raneri**, Computer Science student at University of Catania (LM-31).
 
 ## 💻 Tech Stack
 
